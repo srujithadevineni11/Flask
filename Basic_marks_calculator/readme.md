@@ -4,17 +4,9 @@ This repository contains a marks calculator web application that allows users to
 
 ## Features
 
-- Users can input marks for various subjects.
+- Users can input marks for 4 subjects.
 - The application calculates the final result based on the provided marks.
 - Provides a user-friendly interface for easy interaction.
-- Includes screen recording showcasing the functionality of the website.
-
-## Files
-
-- `index.html`: HTML file for the user interface of the web application.
-- `main.py`: Python file containing the Flask application logic and routes.
-- `results.py`: Python file containing logic for calculating final results.
-- `screen_recording.mp4`: Screen recording demonstrating the functionality of the website.
 
 ## Usage
 
