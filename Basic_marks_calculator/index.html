@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills Evaluation Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            margin-top: 0;
+            color: #333;
+        }
+        label {
+            font-weight: bold;
+            color: #555;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        p {
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Skills Evaluation Form</h2>
+
+<form action="/submit" method='post'>
+  <label for="datascience">Data Science:</label><br>
+  <input type="text" id="datascience" name="datascience" placeholder="Enter your proficiency level (0-100)" required><br>
+
+  <label for="machinelearning">Machine Learning:</label><br>
+  <input type="text" id="machinelearning" name="machinelearning" placeholder="Enter your proficiency level (0-100)" required><br><br>
+
+  <label for="linearalgebra">Linear Algebra:</label><br>
+  <input type="text" id="linearalgebra" name="linearalgebra" placeholder="Enter your proficiency level (0-100)" required><br><br>
+
+  <label for="statistics">Statistics:</label><br>
+  <input type="text" id="statistics" name="statistics" placeholder="Enter your proficiency level (0-100)" required><br><br>
+
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form data will be sent for evaluation.</p>
+
+</body>
+</html>
