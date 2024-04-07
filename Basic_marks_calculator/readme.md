@@ -23,7 +23,9 @@ This repository contains a marks calculator web application that allows users to
 
 ## Demo
 
-[![Watch the demo](https://github.com/srujithadevineni11/Flask/blob/main/Basic_marks_calculator/Screen%20Recording%202024-04-07%20at%203.49.25%20PM.mov)
+[![Watch the demo](https://github.com/srujithadevineni11/Flask/blob/main/Basic_marks_calculator/Screen%20Recording%202024-04-07%20at%203.49.25%20PM.mov)](https://github.com/srujithadevineni11/Flask/blob/main/Basic_marks_calculator/Screen%20Recording%202024-04-07%20at%203.49.25%20PM.mov)
+
+Click on the image to watch the demo.
 
 ## Acknowledgements
 
