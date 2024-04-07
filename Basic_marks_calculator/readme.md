@@ -23,7 +23,7 @@ This repository contains a marks calculator web application that allows users to
 
 ## Demo
 
-[![Watch the demo](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[![Watch the demo](https://github.com/srujithadevineni11/Flask/blob/main/Basic_marks_calculator/Screen%20Recording%202024-04-07%20at%203.49.25%20PM.mov)
 
 ## Acknowledgements
 
